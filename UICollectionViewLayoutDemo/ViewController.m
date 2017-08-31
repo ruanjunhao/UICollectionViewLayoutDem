@@ -2,7 +2,7 @@
 //  ViewController.m
 //  UICollectionViewLayoutDemo
 //
-//  Created by rjh on 2017/8/30.
+//  Created by rjh   on 2017/8/30.
 //  Copyright © 2017年 rjh. All rights reserved.
 //
 
